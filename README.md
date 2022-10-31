@@ -15,7 +15,7 @@ Run `demo.m` in the `src` folder to see the demo usage and parameters selection.
 
 
 ## Test
-RUn `test_dct_denoising` in the `src` folder to test the correctness of the denoising algorithm. It is a simple test that set the threshold to zero. Then the output and input image should be the same.
+Run `test_dct_denoising` in the `src` folder to test the correctness of the denoising algorithm. It is a simple test that sets the threshold to zero. Then the output and input image should be the same.
 
 
 ## References
